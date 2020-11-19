@@ -1,2 +1,4 @@
 .idea/
 node_modules/
+ormconfig.json
+pasckage-lock.json
